@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Navigator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 20px;
+    }
+    #image {
+      max-width: 90%;
+      max-height: 80vh;
+      border: 1px solid #ccc;
+      margin-bottom: 10px;
+    }
+    #attributes {
+      margin: 50px 0px 0px 10px;
+      max-width: 80%;
+      text-align: left;
+    }
+    #container {
+      display: flex;
+      align-items: center;
+    }
+    #imageContainer {
+      display: flex;
+      flex-direction: column;
+    }
+    #jsonSelector {
+      width: 150px;
+      margin: 20px 0px;
+    }
+    button {
+      margin: 10px;
+      padding: 10px 20px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <div id="imageContainer">
+      <h1>Stimuli</h1>
+      <!-- Dropdown menu to select JSON file -->
+      <select id="jsonSelector">
+        <option value="./Task_Taxonomy/Type1/Type1_Tasks_all.json">Type 1</option>
+        <option value="./Task_Taxonomy/Type2/Type2_Tasks_all.json">Type 2</option>
+        <option value="./Task_Taxonomy/Type3/Type3_Tasks_all.json">Type 3</option>
+        <option value="./Task_Taxonomy/Type4/Type4_Tasks_all.json">Type 4</option>
+        <option value="./Task_Taxonomy/Type5/Type5_Tasks_all.json">Type 5</option>
+        <option value="./Task_Taxonomy/Type5Prime/Type5Prime_Tasks_all.json">Type 5 Prime</option>
+        <option value="./Task_Taxonomy/Type6/Type6_Tasks_all.json">Type 6</option>
+        <option value="./Task_Taxonomy/Type6Prime/Type6Prime_Tasks_all.json">Type 6 Prime</option>
+      </select>
+      
+      <img id="image" src="" alt="Image will appear here">
+    </div>
+    <div id="attributes"></div>
+  </div>
+  <div>
+    <button id="prev">Previous</button>
+    <button id="next">Next</button>
+  </div>
+
+  <script>
+    let items = [];
+    let currentIndex = 0;
+
+    let tasktype = "Type1";
+
+    // Fetch the JSON file (data.json should be in the same folder)
+    // fetch(`./Task_Taxonomy/${tasktype}/${tasktype}_Tasks_all.json`)
+    // Function to load a JSON file and update items.
+    function loadJsonFile(filename) {
+      fetch(filename)
+        .then(response => response.json())
+        .then(data => {
+          items = data;
+          currentIndex = 0;
+          tasktype = filename.split("/")[2];
+          if (items.length > 0) {
+            displayItem(currentIndex);
+          } else {
+            document.getElementById('attributes').textContent = "No items found in the JSON file.";
+            document.getElementById('image').src = "";
+          }
+        })
+        .catch(error => {
+          console.error('Error loading JSON:', error);
+          document.getElementById('attributes').textContent = "Failed to load JSON data.";
+          document.getElementById('image').src = "";
+        });
+    }
+
+    // Initially load the first JSON file based on the selector's default value.
+    const jsonSelector = document.getElementById('jsonSelector');
+    loadJsonFile(jsonSelector.value);
+
+    // Update JSON file when a new option is selected.
+    jsonSelector.addEventListener('change', function() {
+      loadJsonFile(this.value);
+    });
+
+    // Function to display an item at a given index
+    function displayItem(index) {
+      const item = items[index];
+      // Set the image source
+      document.getElementById('image').src = `./Task_Taxonomy/${tasktype}/${item.filename}`;
+      
+      // Clear previous attributes
+      const attributesDiv = document.getElementById('attributes');
+      attributesDiv.innerHTML = '';
+      
+      // Display each attribute (skip the "image" property)
+      for (const key in item) {
+        if (key !== "filename") {
+          const h3 = document.createElement('h3');
+          h3.textContent = key;
+          attributesDiv.appendChild(h3);
+
+          if (typeof(item[key]) === 'object' && !Array.isArray(item[key]) && item[key] !== null) {
+            for (const attribute in item[key]) {
+              const para = document.createElement('p');
+              const question = item[key][attribute];
+              para.innerHTML = question.qn + "<span style='color: blue'>" + " " + question.ans + "</span>";
+              attributesDiv.appendChild(para);
+            }
+          } else {
+            const para = document.createElement('p');
+            para.textContent = item[key];
+            attributesDiv.appendChild(para);
+          }
+        }
+      }
+    }
+
+    // Navigate to the previous item
+    document.getElementById('prev').addEventListener('click', function() {
+      if (currentIndex > 0) {
+        currentIndex--; 
+        displayItem(currentIndex);
+      }
+    });
+
+    // Navigate to the next item
+    document.getElementById('next').addEventListener('click', function() {
+      if (currentIndex < items.length - 1) {
+        currentIndex++;
+        displayItem(currentIndex);
+      }
+    });
+  </script>
+</body>
+</html>

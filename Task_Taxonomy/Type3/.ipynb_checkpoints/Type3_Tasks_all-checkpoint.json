@@ -1,0 +1,4682 @@
+[
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_0.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "J"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "G"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17.782794100389225,
+                    86
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "0"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "9"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_1.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "17.782794100389225"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "J"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "B"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17.782794100389225,
+                    95
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "0"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "9"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_2.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "31.622776601683793"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "F"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "C"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    88
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_3.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "38.311868495572874"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "I"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "J"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    11,
+                    98
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "2"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "7"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_4.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "17.782794100389225"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "46.41588833612779"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "H"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "D"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    15,
+                    86
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "6"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "3"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_5.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "56.23413251903491"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "I"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "J"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    14,
+                    67
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_6.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "17.782794100389225"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "68.12920690579612"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "A"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    11,
+                    80
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "8"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "1"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_7.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "F"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "G"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17.782794100389225,
+                    84
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "0"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "9"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_8.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "100"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "B"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "G"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17.782794100389225,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "9"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "0"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "0"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "9"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_9.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "26.101572156825366"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "21.54434690031884"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "D"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    82
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_10.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "A"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "H"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    13,
+                    67
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "2"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "7"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_11.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "38.311868495572874"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "D"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "H"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    19,
+                    96
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_12.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "46.41588833612779"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "F"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    20,
+                    97
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "4"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "5"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_13.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "56.23413251903491"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "I"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    86
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_14.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "68.12920690579612"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "F"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "H"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    16,
+                    90
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "7"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "2"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_15.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "82.54041852680184"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "G"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "J"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    15,
+                    82.54041852680184
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "0"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_16.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "100"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "G"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "B"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    21.54434690031884,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "0"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "9"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "0"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_17.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "31.622776601683793"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "A"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "I"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    93
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_18.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "38.311868495572874"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "I"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "J"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    91
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_19.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "46.41588833612779"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "I"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    13,
+                    97
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_20.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "26.101572156825366"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "56.23413251903491"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "H"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    16,
+                    95
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "2"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "7"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_21.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "68.12920690579612"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "E"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "J"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    19,
+                    97
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "6"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "3"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_22.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "B"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    82.54041852680184
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "9"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "0"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_23.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "100"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "B"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "I"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "9"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "0"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_24.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "38.311868495572874"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "F"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "J"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17,
+                    88
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_25.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "46.41588833612779"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "C"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    20,
+                    99
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_26.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "56.23413251903491"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "C"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    20,
+                    89
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_27.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "68.12920690579612"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "D"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    11,
+                    99
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "5"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "4"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_28.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "A"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "D"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17,
+                    96
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_29.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "100"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "B"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "D"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    15,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "9"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "0"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_30.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "38.311868495572874"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "46.41588833612779"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "D"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    14,
+                    94
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "4"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "5"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_31.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "56.23413251903491"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "38.311868495572874"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "E"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "J"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    25,
+                    90
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "6"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "3"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_32.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "38.311868495572874"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "68.12920690579612"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "J"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    96
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_33.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "38.311868495572874"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "J"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    18,
+                    83
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "8"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "1"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_34.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "100"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "38.311868495572874"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "B"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "A"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    24,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "9"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "0"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_35.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "46.41588833612779"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "56.23413251903491"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "H"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    24,
+                    91
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "2"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "7"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_36.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "46.41588833612779"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "68.12920690579612"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "F"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "H"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    11,
+                    90
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_37.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "46.41588833612779"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "H"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    11,
+                    90
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_38.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "46.41588833612779"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "100"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "G"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "H"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    18,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "2"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "7"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "0"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_39.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "68.12920690579612"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "56.23413251903491"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "J"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "I"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    20,
+                    76
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_40.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "56.23413251903491"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "82.54041852680184"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "D"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "C"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    12,
+                    89
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "8"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "1"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_41.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "56.23413251903491"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "100"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "G"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "H"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    19,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "0"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_42.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "68.12920690579612"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "82.54041852680184"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "F"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "C"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    13,
+                    96
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "5"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "4"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "7"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "2"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_43.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "68.12920690579612"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "100"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "G"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "A"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    28,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "6"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "3"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "0"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_image_44.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar B?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar G?",
+                "ans": "100"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "G"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "D"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    23,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than B?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than B?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than G?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than G?",
+                "ans": "0"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_0.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "A"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "D"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17.782794100389225,
+                    86
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "0"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "9"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_1.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "17.782794100389225"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "A"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "I"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17.782794100389225,
+                    95
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "0"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "9"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_2.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "31.622776601683793"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "E"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "H"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    88
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_3.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "38.311868495572874"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "B"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "A"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    11,
+                    98
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "2"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "7"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_4.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "17.782794100389225"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "46.41588833612779"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "C"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "G"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    15,
+                    86
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "6"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "3"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_5.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "56.23413251903491"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "B"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "A"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    14,
+                    67
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_6.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "17.782794100389225"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "68.12920690579612"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "J"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    11,
+                    80
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "8"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "1"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_7.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "E"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "D"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17.782794100389225,
+                    84
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "0"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "9"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_8.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "100"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "17.782794100389225"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "I"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "D"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17.782794100389225,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "9"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "0"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "0"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "9"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_9.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "26.101572156825366"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "21.54434690031884"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "G"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    82
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_10.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "J"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "C"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    13,
+                    67
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "2"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "7"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_11.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "38.311868495572874"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "G"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "C"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    19,
+                    96
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_12.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "46.41588833612779"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "E"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    20,
+                    97
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "4"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "5"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_13.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "56.23413251903491"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "B"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    86
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_14.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "68.12920690579612"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "E"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "C"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    16,
+                    90
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "7"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "2"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_15.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "82.54041852680184"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "D"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "A"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    15,
+                    82.54041852680184
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "1"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "8"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "0"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_16.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "21.54434690031884"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "100"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "D"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "I"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    21.54434690031884,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "0"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "9"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "0"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_17.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "31.622776601683793"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "J"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "B"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    93
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_18.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "38.311868495572874"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "B"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "A"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    91
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_19.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "46.41588833612779"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "B"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    13,
+                    97
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_20.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "26.101572156825366"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "56.23413251903491"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "C"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    16,
+                    95
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "2"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "7"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_21.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "68.12920690579612"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "F"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "A"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    19,
+                    97
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "6"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "3"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_22.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "I"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    82.54041852680184
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "9"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "0"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_23.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "100"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "26.101572156825366"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "I"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "B"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "9"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "0"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_24.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "38.311868495572874"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "E"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "A"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17,
+                    88
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_25.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "46.41588833612779"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "H"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    20,
+                    99
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_26.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "56.23413251903491"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "H"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    20,
+                    89
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_27.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "68.12920690579612"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "G"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    11,
+                    99
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "5"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "4"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_28.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "J"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "G"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    17,
+                    96
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_29.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "100"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "31.622776601683793"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "I"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "G"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    15,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "9"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "0"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_30.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "38.311868495572874"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "46.41588833612779"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "G"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    14,
+                    94
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "4"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "5"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_31.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "56.23413251903491"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "38.311868495572874"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "F"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "A"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    25,
+                    90
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "6"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "3"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_32.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "38.311868495572874"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "68.12920690579612"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "A"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    10,
+                    96
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_33.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "38.311868495572874"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "A"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    18,
+                    83
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "8"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "1"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_34.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "100"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "38.311868495572874"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "I"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "J"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    24,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "9"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "0"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "1"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "8"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_35.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "46.41588833612779"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "56.23413251903491"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "C"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "F"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    24,
+                    91
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "2"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "7"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "3"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "6"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_36.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "46.41588833612779"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "68.12920690579612"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "E"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "C"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    11,
+                    90
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_37.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "46.41588833612779"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "C"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "E"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    11,
+                    90
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "2"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "7"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_38.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "46.41588833612779"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "100"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "D"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "C"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    18,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "2"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "7"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "0"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_39.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "68.12920690579612"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "56.23413251903491"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "A"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "B"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    20,
+                    76
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "5"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "4"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_40.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "56.23413251903491"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "82.54041852680184"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "G"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "H"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    12,
+                    89
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "4"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "5"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "8"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "1"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_41.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "56.23413251903491"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "100"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "D"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "C"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    19,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "3"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "6"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "0"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_42.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "68.12920690579612"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "82.54041852680184"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "E"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "H"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    13,
+                    96
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "5"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "4"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "7"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "2"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_43.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "68.12920690579612"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "100"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "D"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "J"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    28,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "6"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "3"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "0"
+            }
+        }
+    },
+    {
+        "chartType": "bar chart",
+        "variation": "labelAlpha",
+        "filename": "Type3_Tasks_AlphaInvert_image_44.png",
+        "retrieve": {
+            "qn1": {
+                "qn": "What is the value of bar I?",
+                "ans": "82.54041852680184"
+            },
+            "qn2": {
+                "qn": "What is the value of bar D?",
+                "ans": "100"
+            }
+        },
+        "extremum": {
+            "qn1": {
+                "qn": "Which bar has the greatest value?",
+                "ans": "D"
+            },
+            "qn2": {
+                "qn": "Which bar has the smallest value?",
+                "ans": "G"
+            }
+        },
+        "range": {
+            "qn1": {
+                "qn": "What is the range of values?",
+                "ans": [
+                    23,
+                    100
+                ]
+            }
+        },
+        "comparison": {
+            "qn1": {
+                "qn": "How many bars have values less than I?",
+                "ans": "7"
+            },
+            "qn2": {
+                "qn": "How many bars have values greater than I?",
+                "ans": "2"
+            },
+            "qn3": {
+                "qn": "How many bars have values less than D?",
+                "ans": "9"
+            },
+            "qn4": {
+                "qn": "How many bars have values greater than D?",
+                "ans": "0"
+            }
+        }
+    }
+]
