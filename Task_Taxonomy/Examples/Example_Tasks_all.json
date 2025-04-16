@@ -1,52 +1,32 @@
 [
     {
         "filename": "Type1_Example.png",
-	"question": "What is the value of bar B?",
-	"text": "We observe that the bar B is about one-third of the y-axis. We can thus estimate that the area of B is about 33.
-
-Answer - 33
-
-Although the exact answer here is 31.6, remember that we just want you to make a quick visual judgment! Reasonable answers here might range from 26 to 36."
+    	"question": "What is the value of bar B?",
+    	"text": "We observe that the bar B is about one-third of the y-axis. We can thus estimate that the area of B is about 33.\nAnswer - 33\nAlthough the exact answer here is 31.6, remember that we just want you to make a quick visual judgment! Reasonable answers here might range from 26 to 36."
     },
     {
         "filename": "Type1_Example.png",
-	"question": "How many bars have values less than C?",
-	"text": "We observe that bars B, D, G, H, I, and J are smaller than C. We can thus state that bar C is greater than 6 other bars.
-
-Answer - 6"
+    	"question": "How many bars have values less than C?",
+    	"text": "We observe that bars B, D, G, H, I, and J are smaller than C. We can thus state that bar C is greater than 6 other bars.\nAnswer - 6"
     },
     {
         "filename": "Type1_Example.png",
-	"question": "What is the range of values?",
-	"text": "We observe that H is the smallest bar, and is about one-tenth of the y-axis. Next, we might observe that E is the largest bar, and is about the entire length of the y-axis. We can thus estimate the range of values to be 10,100.
-
-Answer - 10,100
-
-Although the exact answer here is 15,96 remember that we just want you to make a quick visual judgment! Reasonable answers here might have the minimum value between 10 to 20, and the maximum value between 91 to 100."
+    	"question": "What is the range of values?",
+    	"text": "We observe that H is the smallest bar, and is about one-tenth of the y-axis. Next, we might observe that E is the largest bar, and is about the entire length of the y-axis. We can thus estimate the range of values to be 10,100.\nAnswer - 10,100\nAlthough the exact answer here is 15,96 remember that we just want you to make a quick visual judgment! Reasonable answers here might have the minimum value between 10 to 20, and the maximum value between 91 to 100."
     },
     {
         "filename": "Type2_Example.png",
-	"question": "What is the ratio of bar A to bar B?",
-	"text": "We observe that the bar A is about half the size of bar B, and estimate that the ratio of A to B is about 0.5.
-
-Answer - 0.5
-
-Although the exact answer here is 0.49, remember that we just want you to make a quick visual judgment! Reasonable answers here might range from 0.44 to 0.54."
+    	"question": "What is the ratio of bar A to bar B?",
+    	"text": "We observe that the bar A is about half the size of bar B, and estimate that the ratio of A to B is about 0.5.\nAnswer - 0.5\nAlthough the exact answer here is 0.49, remember that we just want you to make a quick visual judgment! Reasonable answers here might range from 0.44 to 0.54."
     },
     {
         "filename": "Type2_Example.png",
-	"question": "Is the ratio of bar A to bar B greater than the ratio of bar E to bar F? (Answer True or False)",
-	"text": "We observe that the bar A is about half the size of bar B, and estimate that the ratio of A to B is about 0.5. Next, we might observe that the bar E is one-third greater than bar F, and estimate that the ratio of E to F is 1.33. Thus, the ratio of bar A to bar B is not greater than the ratio of bar E to bar F.
-
-Answer - False
-
-Although the exact ratio of A to B here is 0.49 and the exact ratio of E to F is 1.33, remember that we just want you to make a quick visual True or False judgment! The exact values are not required."
+    	"question": "Is the ratio of bar A to bar B greater than the ratio of bar E to bar F? (Answer True or False)",
+    	"text": "We observe that the bar A is about half the size of bar B, and estimate that the ratio of A to B is about 0.5. Next, we might observe that the bar E is one-third greater than bar F, and estimate that the ratio of E to F is 1.33. Thus, the ratio of bar A to bar B is not greater than the ratio of bar E to bar F.\nAnswer - False\nAlthough the exact ratio of A to B here is 0.49 and the exact ratio of E to F is 1.33, remember that we just want you to make a quick visual True or False judgment! The exact values are not required."
     },
     {
         "filename": "Type6_Example.png",
-	"question": "Which segment has the greatest proportion?",
-	"text": "We observe that the segment C is the largest segment, and is slightly bigger than the segment A. We can thus estimate that the greatest segment is C
-
-Answer - C"
+    	"question": "Which segment has the greatest proportion?",
+    	"text": "We observe that the segment C is the largest segment, and is slightly bigger than the segment A. We can thus estimate that the greatest segment is C.\nAnswer - C"
     }
 ]
