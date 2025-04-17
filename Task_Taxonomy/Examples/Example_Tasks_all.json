@@ -16,13 +16,13 @@
     },
     {
         "filename": "Type2_Example.png",
-    	"question": "What is the ratio of bar A to bar B?",
+    	"question": "What is the ratio of bar A to bar B? (Answer with a ratio)",
     	"text": "We observe that the bar A is about half the size of bar B, and estimate that the ratio of A to B is about 0.5.\nAnswer - 0.5\nAlthough the exact answer here is 0.49, remember that we just want you to make a quick visual judgment! Reasonable answers here might range from 0.44 to 0.54."
     },
     {
         "filename": "Type2_Example.png",
-    	"question": "Is the ratio of bar A to bar B greater than the ratio of bar E to bar F? (Answer True or False)",
-    	"text": "We observe that the bar A is about half the size of bar B, and estimate that the ratio of A to B is about 0.5. Next, we might observe that the bar E is one-third greater than bar F, and estimate that the ratio of E to F is 1.33. Thus, the ratio of bar A to bar B is not greater than the ratio of bar E to bar F.\nAnswer - False\nAlthough the exact ratio of A to B here is 0.49 and the exact ratio of E to F is 1.33, remember that we just want you to make a quick visual True or False judgment! The exact values are not required."
+    	"question": "Is the ratio of bar A to bar B greater than the ratio of bar E to bar F? (Answer yes or no)",
+    	"text": "We observe that the bar A is about half the size of bar B, and estimate that the ratio of A to B is about 0.5. Next, we might observe that the bar E is one-third greater than bar F, and estimate that the ratio of E to F is 1.33. Thus, the ratio of bar A to bar B is not greater than the ratio of bar E to bar F.\nAnswer - no\nAlthough the exact ratio of A to B here is 0.49 and the exact ratio of E to F is 1.33, remember that we just want you to make a quick visual yes/no judgment! The exact values are not required."
     },
     {
         "filename": "Type6_Example.png",
